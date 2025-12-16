@@ -1,0 +1,178 @@
+.heading-one {
+    position : absolute;
+    margin-left: 30%;
+    top: 10%;
+}
+.anchor-one {
+    position: absolute;
+    margin-left: 80%;
+     color:black;
+     text-decoration: none;
+}
+.anchor-two {
+    position: absolute;
+    margin-left: 75%;
+     color:black;
+text-decoration: none;
+}
+.anchor-three {
+    position: absolute;
+    margin-left: 70%;
+    color:black;
+    text-decoration: none;
+}
+.p-one {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+.btn-html {
+    background-color: rgb(58, 120, 235);
+    margin-left: 34%;
+    margin-top: 17%;
+    border-radius: 10px;
+    font-size: 20px;
+    border-color: azure;
+    color: aliceblue;
+    height: 40px;
+    width: 130px;
+}
+.btn-html:hover{
+    background-color: rgb(0, 89, 255);
+}
+.btn-one{
+    background-color: rgb(241, 235, 235);
+    margin-left: 1%;
+    margin-top: 17%;
+    border-radius: 10px;
+    font-size: 20px;
+    border-color: azure;
+    color: rgb(9, 10, 12);
+    height: 40px;
+    width: 130px;
+    text-decoration: none;
+}
+.btn-one:hover{
+    background-color: rgb(255, 255, 255);
+}
+h3 {
+    position: absolute;
+    margin-left: 40%;
+    font-size: 30px;
+}
+h5 {
+    margin-top: 70px;
+}
+.div-one {
+     border: 1px solid rgb(170, 168, 168);
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    margin-left: 25%;
+    margin-top: 10%;
+    border-radius: 10px;
+}
+.p-two {
+     position: absolute;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.div-two{
+     border: 1px solid rgb(170, 168, 168);
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 10%;
+    border-radius: 10px;
+}
+.p-three {
+     position: absolute;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.div-three{
+     border: 1px solid rgb(170, 168, 168);
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    margin-left: 55%;
+    margin-top: 10%;
+    border-radius: 10px;
+}
+.p-four {
+     position: absolute;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+/*yeh ha contact page ka*/
+h2 {
+    margin-left: 40%;
+    color: rgb(0, 89, 255) ;
+    font-size:40px ;
+}
+.in-one {
+    margin-left: 40%;
+    height: 40px;
+    border-radius: 10px;
+    width: 20%;
+    border: 1px , solid , rgb(180, 173, 173);
+    color: rgb(19, 17, 17);
+    background-color:rgb(70, 128, 236) ;
+}
+.in-one:hover {
+    background-color: rgb(114, 171, 255);
+}
+.in-two {
+    margin-left: 40%;
+    height: 40px;
+    border-radius: 10px;
+    width: 20%;
+    border: 1px , solid , rgb(180, 173, 173);
+    color: rgb(19, 17, 17);
+    background-color:rgb(70, 128, 236) ;
+}
+.in-two:hover {
+    background-color: rgb(114, 171, 255);
+}
+.p-ten {
+    margin-left:40%;
+
+}
+.area-talk {
+    margin-left: 40%;
+    height: 40px;
+    border-radius: 10px;
+    width: 20%;
+    border: 1px , solid , rgb(180, 173, 173);
+    color: rgb(19, 17, 17);
+    background-color:rgb(70, 128, 236) ;
+}
+.area-talk:hover {
+    background-color: rgb(114, 171, 255);
+}
+.submit-here {
+    margin-left: 40%;
+    height: 40px;
+    border-radius: 10px;
+    width: 20%;
+    border: 1px , solid , rgb(180, 173, 173);
+    color: rgb(19, 17, 17);
+    background-color:rgb(70, 128, 236) ;
+}
+.submit-here:hover {
+    background-color: rgb(114, 171, 255);
+}
+/*yeh ha about page ke liye*/
+ .about-html {
+    margin-left: 45%;
+    color: rgb(70, 128, 236);
+ }
+ .p-eleven {
+    
+    text-align: center;
+ }
+ .anaya-one {
+    text-decoration: none;
+    color: black;
+ }
